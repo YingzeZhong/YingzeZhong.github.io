@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Yingze Zhong, third-year master student at Xi'an Jiaotong University, incoming PhD at Shanghai Jiao Tong University. Research: robust combinatorial optimization and intelligent computing.">
+  <title>Yingze Zhong | Personal Homepage</title>
+  <style>
+    body {
+      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #e6f0ff; /* 浅蓝背景 */
+      color: #111;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+    }
+    main {
+      max-width: 700px;
+      padding: 2rem;
+      line-height: 1.6;
+      border: 3px solid #3366ff; /* 蓝色边框 */
+      border-radius: 10px;
+      background-color: #ffffff;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    }
+    h1 {
+      margin-bottom: 0.2rem;
+      color: #003399;
+    }
+    h2 {
+      margin-top: 0.2rem;
+      font-weight: normal;
+      color: #555;
+    }
+    a {
+      color: #1a0dab;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    ul {
+      padding-left: 1.2rem;
+    }
+    footer {
+      margin-top: 2rem;
+      font-size: 0.9rem;
+      color: #666;
+    }
+    .section-title {
+      font-weight: bold;
+      margin-top: 1rem;
+      margin-bottom: 0.5rem;
+      color: #003399;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Yingze Zhong</h1>
+    <h2>Master’s student, Xi'an Jiaotong University<br>Incoming PhD student, Shanghai Jiao Tong University (2026)</h2>
+    
+    <p class="section-title">Bio:</p>
+    <p>I am a third-year master student at Xi'an Jiaotong University and an incoming PhD student at Shanghai Jiao Tong University starting in September 2026. My research focuses on robust combinatorial optimization and intelligent computing, with interests in learning-based methods for decision-making under uncertainty.</p>
+    
+    <p class="section-title">Research Interests:</p>
+    <ul>
+      <li>Robust Combinatorial Optimization</li>
+      <li>Intelligent Computing</li>
+      <li>Deep Reinforcement Learning</li>
+      <li>Multi-objective Optimization</li>
+      <li>Learning-Augmented Optimization</li>
+    </ul>
+    
+    <p class="section-title">Contact:</p>
+    <ul>
+      <li><a href="mailto:zhongyingze2000@163.com">zhongyingze2000@163.com</a></li>
+      <li><a href="https://scholar.google.com/citations?hl=zh-CN&user=Ywau1LUAAAAJ">Google Scholar</a></li>
+    </ul>
+    
+    <p class="section-title">Education:</p>
+    <ul>
+      <li>PhD Management Science, Shanghai Jiao Tong University (2026– )</li>
+      <li>MS Mathematics, Xi'an Jiaotong University (2023-09 to 2023-06)</li>
+      <li>BS Information and Computing Science, Xi'an Jiaotong University (2019-09 to 2023-06)</li>
+    </ul>
+
+    <p class="section-title">Awards:</p>
+    <ul>
+      <li>Best Poster Nominee, IEEE CEC 2025</li>
+    </ul>
+
+    <footer>
+      &copy; 2026 Yingze Zhong
+    </footer>
+  </main>
+</body>
+</html>
